@@ -108,7 +108,7 @@ namespace ehtorakenne
                     Console.WriteLine("You didn't type a number");
                 }
             }
-                Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
